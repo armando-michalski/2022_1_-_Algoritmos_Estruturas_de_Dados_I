@@ -1,6 +1,3 @@
-from tkinter import NONE
-
-
 class Pessoa:
 
     def __init__(self, nome = "Sem Nome", telefone = "1234"):
